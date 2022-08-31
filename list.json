@@ -1,0 +1,102 @@
+{
+  "list": [
+    {
+      "author": "A",
+      "series": "nada",
+      "title": "Academioa",
+      "volume": "1",
+      "special": "big"
+    },
+    {
+      "author": "A",
+      "series": "nada",
+      "title": "danganrompa",
+      "volume": "1",
+      "special": "big"
+    },
+    {
+      "author": "A",
+      "series": "apex",
+      "title": "danganrompa",
+      "volume": "1",
+      "special": "big"
+    },
+    {
+      "author": "A",
+      "series": "trone de cuivre",
+      "volume": "1",
+      "title": "danganrompa",
+      "special": "big"
+    },
+    {
+      "author": "A",
+      "series": "trone de fer",
+      "volume": "1",
+      "title": "danganrompa",
+      "special": "big"
+    },
+    {
+      "author": "B",
+      "series": "nada",
+      "volume": "1",
+      "title": "danganrompa",
+      "special": "big"
+    },
+    {
+      "author": "C",
+      "series": "nada",
+      "volume": "1",
+      "title": "danganrompa",
+      "special": "big"
+    },
+    {
+      "author": "D",
+      "series": "narnia",
+      "volume": "1",
+      "title": "danganrompa",
+      "special": "big"
+    },
+    {
+      "author": "E",
+      "series": "nada",
+      "volume": "1",
+      "title": "danganrompa",
+      "special": "big"
+    },
+    {
+      "author": "Miazaki",
+      "series": "Name of the wind",
+      "volume": "Name of the wind",
+      "title": "Rising of the wind",
+      "special": "pocket"
+    },
+    {
+      "author": "araki",
+      "series": "nada",
+      "volume": "nada",
+      "title": "JoJO",
+      "special": "pocket"
+    },
+    {
+      "author": "miazakiki",
+      "series": "Name of the wind",
+      "volume": "1",
+      "title": "Windi wind",
+      "special": "pocket"
+    },
+    {
+      "author": "miazakiki",
+      "series": "Name of the wind",
+      "volume": "0",
+      "title": "woosh",
+      "special": "pocket"
+    },
+    {
+      "author": "testo",
+      "series": "nada",
+      "volume": "1",
+      "title": "morbius",
+      "special": "big"
+    }
+  ]
+}
